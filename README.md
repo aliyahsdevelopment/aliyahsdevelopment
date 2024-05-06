@@ -11,14 +11,14 @@ I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passiona
   - Discord: [discord.gg/5mdevs](https://discord.gg/5mdevs)
   - Email: [lajo@aliyahs.dev](mailto:lajo@aliyahs.dev)
 - 🌐 My domain: [aliyahs.dev](https://aliyahs.dev)
-- 🏪 My store: [aliyahs.dev](https://store.aliyahs.dev)
+- 🏪 My store: [store.aliyahs.dev](https://store.aliyahs.dev)
 
 ## 🚀 Skills
 
 Here are some technologies I've worked with:
 
 - **Languages**: Lua, JavaScript
-- **Frameworks/Libraries**: React, Basic Discord Bots
+- **Frameworks/Libraries**: React, disnake.py
 - **Tools**: FiveM, Git
 
 ## 🌟 Future Plans
