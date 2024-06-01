@@ -22,7 +22,7 @@ Here are some technologies I've worked with:
 - **Tools**: FiveM, Git
 
 ## 🌟 Future Plans
-
+- 🔨 I plan to learn more languages and advance my learning!
 - 🤖 I plan to start learning JavaScript to create Discord bots.
 
 ## 📈 GitHub Stats
