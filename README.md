@@ -24,7 +24,6 @@ Here are some technologies I've worked with:
 ## 🌟 Future Plans
 
 - 🤖 I plan to start learning JavaScript to create Discord bots.
-- ⚡ I'm also planning to learn Svelte and replace React with it, as it is faster and better.
 
 ## 📈 GitHub Stats
 
