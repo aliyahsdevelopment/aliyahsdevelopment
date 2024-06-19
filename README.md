@@ -3,7 +3,6 @@
 I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passionate about FiveM scripting using React and Lua. Welcome to my GitHub profile!
 
 ## 📝 About me
-
 - 🎓 Still in school and planning to become a software engineer in the future.
 - 🌱 Currently learning and growing in development.
 - 💡 I'm interested in game development, web development, and technology in general.
@@ -14,12 +13,9 @@ I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passiona
 - 🏪 My store: [store.aliyahs.dev](https://store.aliyahs.dev)
 
 ## 🚀 Skills
-
-Here are some technologies I've worked with:
-
-- **Languages**: Lua, JavaScript
-- **Frameworks/Libraries**: React, disnake.py
-- **Tools**: FiveM, Git
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,discord,figma,github,gmail,html,js,css,lua,py,react,sass,vscode,windows" />
+</a>
 
 ## 🌟 Future Plans
 - 🔨 I plan to learn more languages and advance my learning!
