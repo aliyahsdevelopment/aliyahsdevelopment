@@ -10,6 +10,7 @@ I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passiona
   - Discord: [discord.gg/5mdevs](https://discord.gg/5mdevs)
   - Email: [lajo@aliyahs.dev](mailto:lajo@aliyahs.dev)
 - 🌐 My domain: [aliyahs.dev](https://aliyahs.dev)
+- 📄 My documentation page: [docs.aliyahs.dev](https://docs.aliyahs.dev)
 - 🏪 My store: [store.aliyahs.dev](https://store.aliyahs.dev)
 
 ## 🚀 Skills
