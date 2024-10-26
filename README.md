@@ -24,4 +24,6 @@ I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passiona
 
 ## 📈 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliyahsDevelopment&count_private=true&theme=dark&show_icons=true&hide_langs_below=1)
+
 [![Aliyahs Development's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyahsDevelopment&show_icons=true&theme=radical)](https://github.com/AliyahsDevelopment/github-readme-stats)
