@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Leo, also known as Aliyahs Development. I'm a 15-year-old developer passionate about FiveM scripting using React and Lua. Welcome to my GitHub profile!
+I'm Leo, also known as Aliyahs Development. I'm a 16-year-old developer passionate about FiveM scripting using React and Lua. Welcome to my GitHub profile!
 
 ## 📝 About me
 - 🎓 Still in college and planning to become a software engineer in the future.
 - 🌱 Currently learning and growing in development.
-- 💡 I'm interested in game development, web development, and technology in general.
+- 💡 I'm interested in web development, and technology in general.
 - 📫 How to reach me: 
   - Discord: [discord.gg/5mdevs](https://discord.gg/5mdevs)
   - Email: [lajo@aliyahs.dev](mailto:lajo@aliyahs.dev)
