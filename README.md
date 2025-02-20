@@ -1,16 +1,16 @@
-# Hi there! 👋
+# Hello! 👋
 
-I'm Leo, also known as Aliyahs Development. I'm a 16-year-old developer passionate about FiveM scripting using React and Lua. Welcome to my GitHub profile!
+I'm Leo, also known as Aliyahs Development. I'm a 16-year-old FiveM developer, passionate about scripting with React and Lua. Welcome to my GitHub profile!
 
-## 📝 About me
-- 🎓 Still in high school and planning to become a software engineer in the future.
-- 🌱 Currently learning and growing in development.
-- 💡 I'm interested in web development, and technology in general.
-- 📫 How to reach me: 
+## 📝 About Me
+- 🎓 I'm currently in high school with a focus on programming and plan to pursue a career as a software engineer.
+- 🌱 Always learning and improving my development skills.
+- 💡 I'm fascinated by web development and technology as a whole.
+- 📫 Feel free to reach out to me:
   - Discord: [discord.gg/5mdevs](https://discord.gg/5mdevs)
   - Email: [lajo@aliyahs.dev](mailto:lajo@aliyahs.dev)
-- 🌐 My domain: [aliyahs.dev](https://aliyahs.dev)
-- 📄 My documentation page: [docs.aliyahs.dev](https://docs.aliyahs.dev)
+- 🌐 My website: [aliyahs.dev](https://aliyahs.dev)
+- 📄 Documentation: [docs.aliyahs.dev](https://docs.aliyahs.dev)
 - 🏪 My store: [store.aliyahs.dev](https://store.aliyahs.dev)
 
 ## 🚀 Skills
@@ -18,9 +18,9 @@ I'm Leo, also known as Aliyahs Development. I'm a 16-year-old developer passiona
   <img src="https://skillicons.dev/icons?i=git,discord,figma,github,gmail,html,js,css,lua,py,react,sass,vscode,windows" />
 </a>
 
-## 🌟 Future Plans
-- 🔨 I plan to learn more languages and advance my learning!
-- 🤖 I plan to start learning JavaScript to create Discord bots.
+## 🌟 My Goals
+- 🔨 I plan to expand my knowledge by learning more programming languages and advancing my skills.
+- 🤖 I'll be diving deeper into JavaScript to build Discord bots.
 
 ## 📈 GitHub Stats
 
