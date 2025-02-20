@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Leo, also known as Aliyahs Development. I'm a 16-year-old FiveM developer, passionate about scripting with React and Lua. Welcome to my GitHub profile!
+I'm Leo, also known as Aliyahs Development. I'm a 16-year-old FiveM developer, passionate about scripting with Vue and Lua. Welcome to my GitHub profile!
 
 ## 📝 About Me
 - 🎓 I'm currently in high school with a focus on programming and plan to pursue a career as a software engineer.
