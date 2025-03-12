@@ -1,26 +1,37 @@
-# Hello! 👋
+# 👋 Hi, I'm Leo!
 
-I'm Leo, also known as Aliyahs Development. I'm a 16-year-old FiveM developer, passionate about scripting with Vue and Lua. Welcome to my GitHub profile!
+Welcome to my GitHub! I'm a 16-year-old passionate FiveM developer and aspiring software engineer. I specialize in Vue and Lua scripting, and I'm always exploring new technologies and tools to improve my skills.
 
-## 📝 About Me
-- 🎓 I'm currently in high school with a focus on programming and plan to pursue a career as a software engineer.
-- 🌱 Always learning and improving my development skills.
-- 💡 I'm fascinated by web development and technology as a whole.
-- 📫 Feel free to reach out to me:
+## 💼 About Me
+- **Current Focus**: High school student with a passion for programming and web development.
+- **Future Goals**: I'm aiming to become a software engineer, diving deeper into backend and frontend development.
+- **Always Learning**: I'm constantly experimenting with new languages, frameworks, and tools to grow as a developer.
+- **Contact Me**:
   - Discord: [discord.gg/5mdevs](https://discord.gg/5mdevs)
   - Email: [lajo@aliyahs.dev](mailto:lajo@aliyahs.dev)
-- 🌐 My website: [aliyahs.dev](https://aliyahs.dev)
-- 📄 Documentation: [docs.aliyahs.dev](https://docs.aliyahs.dev)
-- 🏪 My store: [store.aliyahs.dev](https://store.aliyahs.dev)
+  - Website: [aliyahs.dev](https://aliyahs.dev)
 
-## 🚀 Skills
+## 🚀 Technologies & Tools
+I have experience working with a variety of tech stacks, including:
+
+- **Languages**: Vue, Lua, JavaScript, HTML, CSS, Python, React
+- **Tools**: Figma, VS Code, GitHub, Firebase, MySQL
+- **Frameworks**: React, Vue.js, Sass
+- **Other**: Discord, FiveM, Git
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,discord,figma,github,gmail,html,js,css,lua,py,react,sass,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=lua,py,html,js,css,react,vue,py,figma,vscode,github,git" />
 </a>
 
-## 🌟 My Goals
-- 🔨 I plan to expand my knowledge by learning more programming languages and advancing my skills.
-- 🤖 I'll be diving deeper into JavaScript to build Discord bots.
+## 🌱 What I’m Working On
+- **FiveM Projects**: Developing custom scripts and tools for FiveM, focusing on performance and user experience.
+- **Web Development**: Creating modern websites with Vue.js and React, with a special interest in UI/UX design.
+- **Discord Bots**: Diving deeper into bot development using JavaScript and Discord.js.
+
+## 🎯 Goals for the Future
+- 🌍 **Expand Knowledge**: Explore more programming languages, frameworks, and development tools.
+- 🤖 **Bot Development**: Build and improve Discord bots and integrate new features.
+- 🚀 **Advanced Web Projects**: Enhance my web development skills with cutting-edge technologies.
 
 ## 📈 GitHub Stats
 
