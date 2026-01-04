@@ -20,7 +20,7 @@ I have experience working with a variety of tech stacks, including:
 - **Other**: Discord, FiveM, Git
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=lua,py,html,js,css,react,vue,py,figma,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=lua,py,html,js,css,react,vue,figma,vscode,github,git" />
 </a>
 
 ## 🌱 What I’m Working On
